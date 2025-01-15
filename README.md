@@ -167,4 +167,5 @@ To access the presentation:
    git clone https://github.com/ayushmishra90/Hospital-Management-System
    ```
 2. Navigate to the project directory and open `hospital_management_presentation.pptx` using any compatible software, such as PowerPoint, Google Slides, or Keynote.
+3. 
 
